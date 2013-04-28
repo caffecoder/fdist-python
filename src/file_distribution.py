@@ -15,7 +15,8 @@ class FileDistribution:
         prefix - directory prefix.
         """
         self.ext = '.dat'
-        self.path = os.path.normpath(prefix)
+        self.prefix = os.path.normpath(prefix)
+        self.path = self.prefix
 
     def set_extension(self,ext):
         """
@@ -49,7 +50,7 @@ class FileDistribution:
             hex = os.path.join(hex[:j], hex[j:])
             j = j-2
 
-        self.path = os.path.join(self.path, hex)
+        self.path = os.path.join(self.prefix, hex)
         self.path += self.ext
 
     def rename_from(self,path):
