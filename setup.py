@@ -13,7 +13,7 @@ setup(
         'Topic :: Software Development :: Libraries',
         ],
     scripts=[],
-    url='http://http://github.org/caffecoder/fdist-python',
+    url='http://github.org/caffecoder/fdist-python',
     license='MIT',
     description='Simple file distribution library.',
     long_description='Simple library that allows organize distribution of files within hex based tree.',
