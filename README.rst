@@ -9,7 +9,9 @@ Simple library that allows organize distribution of files within hex based tree.
 Install FileDistribution package:
 ----------------------------------------
 
-    pip install FileDistribution
+.. code-block:: console
+
+    $ pip install FileDistribution
 
 Example of usage:
 ----------------------------------------
