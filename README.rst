@@ -14,6 +14,8 @@ Install FileDistribution package:
 Example of usage:
 ----------------------------------------
 
+.. code-block:: python
+
     from file_distribution import FileDistribution
 
     fd = FileDistribution("/tmp/storage")
