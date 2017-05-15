@@ -1,2 +1,3 @@
 v0.1.0, 2013.04.28 -- Initial release.
 v0.1.1, 2015.04.13 -- Upgrade project to Python 2.7, some package fixes.
+v0.1.2, 2017.05.15 -- Rename author nickname/e-mail.

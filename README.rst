@@ -1,7 +1,7 @@
 Simple PYTHON file distribution library.
 ========================================
-.. image:: https://travis-ci.org/caffecoder/fdist-python.svg?branch=master
-    :target: https://travis-ci.org/caffecoder/fdist-python
+.. image:: https://travis-ci.org/xcdr/fdist-python.svg?branch=master
+    :target: https://travis-ci.org/xcdr/fdist-python
     :alt: Travis CI Status
 
 Description:

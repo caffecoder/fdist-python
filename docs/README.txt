@@ -1,1 +1,1 @@
-See: http://github.com/caffecoder/fdist-python
+See: http://github.com/xcdr/fdist-python

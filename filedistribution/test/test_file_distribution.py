@@ -9,7 +9,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from file_distribution import FileDistribution
 
-__author__ =  'Adam Kubica (caffecoder) <caffecoder@kaizen-step.com>'
+__author__ =  'Adam Kubica (xcdr) <xcdr@kaizen-step.com>'
 
 class TestFileDistribution(unittest.TestCase):
     def setUp(self):

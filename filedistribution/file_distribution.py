@@ -1,10 +1,10 @@
 import os.path
 
-__author__ =  'Adam Kubica (caffecoder) <caffecoder@kaizen-step.com>'
+__author__ =  'Adam Kubica (xcdr) <xcdr@kaizen-step.com>'
 
 class FileDistribution:
     """
-    Class for manage hashed file distribution. 
+    Class for manage hashed file distribution.
     """
 
     def __init__(self,prefix):
